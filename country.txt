@@ -1,0 +1,4 @@
+Italy|Rome|50000|16|Europe|Austria~France
+Romania|Bucarest|50000|16|Europe|Moldova~Ucraine
+Hungary|Budapest|60210|64|Europe|Romania~Croatia
+Romania|Bucarest|50000|16|Europ|Moldova~Ucraines
